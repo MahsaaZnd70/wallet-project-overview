@@ -73,6 +73,7 @@ flowchart TD
     APP --> PORTS["Output Ports"]
     ADAPTERS["Persistence and Provider Adapters"] -.-> PORTS
     ADAPTERS --> EXTERNAL["Database and External Providers"]
+```
 
 ## Development Approach
 
