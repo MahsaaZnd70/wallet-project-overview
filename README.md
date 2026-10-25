@@ -75,6 +75,7 @@ flowchart TD
     ADAPTERS --> EXTERNAL["Database and External Providers"]
 ```
 
+
 ## Development Approach
 
 Work is organized through focused branches and pull requests. Each change is kept small, reviewable, and connected to a clear product or domain decision.
